@@ -1,0 +1,44 @@
+body {
+    background-image: url(../jjj.jpg);
+    background-size: cover;
+}
+
+.myform {
+    width:440px;
+    height:440px;
+    background-color: white;
+    margin:80px auto;
+    padding: 30px;
+    border:8px solid lightgray;
+}
+
+.myform:hover {
+    background-color: lightskyblue;
+}
+.ff {
+    width:20%;
+    height: 20%;
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+    font-size: 40px;
+
+}
+.txt {
+    width:400px;
+    height: 50px;
+    margin:10px;
+    background-color: lavender;
+    border: 0px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+.btn {
+    width: 420px;
+    height: 60px;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}
